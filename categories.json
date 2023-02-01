@@ -1,0 +1,503 @@
+{
+    "categories": [
+        {
+            "name": "Departments",
+            "nValue": "4294937087",
+            "queryString": "Departments_Depth",
+            "productCount": 1905388,
+            "imageUrl": {
+                "sm": "/mobile/app/content/category_images/Departmentssm.png",
+                "md": "/mobile/app/content/category_images/Departmentsmd.png",
+                "lg": "/mobile/app/content/category_images/Departmentslg.png"
+            },
+            "url": "/pl//4294937087",
+            "subCategories": [
+                {
+                    "name": "Home Decor",
+                    "nValue": "4294935484",
+                    "queryString": "Departments_Depth:1/Home Decor",
+                    "productCount": 705243,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/HomeDecorsm.png",
+                        "md": "/mobile/app/content/category_images/HomeDecormd.png",
+                        "lg": "/mobile/app/content/category_images/HomeDecorlg.png"
+                    },
+                    "categoryId": "101122",
+                    "url": "/pl/Home-decor/4294935484"
+                },
+                {
+                    "name": "Bathroom",
+                    "nValue": "4294737305",
+                    "queryString": "Departments_Depth:1/Bathroom",
+                    "productCount": 153339,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Bathroomsm.png",
+                        "md": "/mobile/app/content/category_images/Bathroommd.png",
+                        "lg": "/mobile/app/content/category_images/Bathroomlg.png"
+                    },
+                    "categoryId": "100299",
+                    "url": "/pl/Bathroom/4294737305"
+                },
+                {
+                    "name": "Lighting & Ceiling Fans",
+                    "nValue": "4294935637",
+                    "queryString": "Departments_Depth:1/Lighting & Ceiling Fans",
+                    "productCount": 148430,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/LightingCeilingFanssm.png",
+                        "md": "/mobile/app/content/category_images/LightingCeilingFansmd.png",
+                        "lg": "/mobile/app/content/category_images/LightingCeilingFanslg.png"
+                    },
+                    "categoryId": "101243",
+                    "url": "/pl/Lighting-ceiling-fans/4294935637"
+                },
+                {
+                    "name": "Windows & Doors",
+                    "nValue": "4294937086",
+                    "queryString": "Departments_Depth:1/Windows & Doors",
+                    "productCount": 137329,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/WindowsDoorssm.png",
+                        "md": "/mobile/app/content/category_images/WindowsDoorsmd.png",
+                        "lg": "/mobile/app/content/category_images/WindowsDoorslg.png"
+                    },
+                    "categoryId": "102167",
+                    "url": "/pl/Windows-doors/4294937086"
+                },
+                {
+                    "name": "Outdoors",
+                    "nValue": "4294612886",
+                    "queryString": "Departments_Depth:1/Outdoors",
+                    "productCount": 82062,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Outdoorssm.png",
+                        "md": "/mobile/app/content/category_images/Outdoorsmd.png",
+                        "lg": "/mobile/app/content/category_images/Outdoorslg.png"
+                    },
+                    "categoryId": "203482",
+                    "url": "/pl/Outdoors/4294612886"
+                },
+                {
+                    "name": "Moulding & Millwork",
+                    "nValue": "4294518252",
+                    "queryString": "Departments_Depth:1/Moulding & Millwork",
+                    "productCount": 70923,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/MouldingMillworksm.png",
+                        "md": "/mobile/app/content/category_images/MouldingMillworkmd.png",
+                        "lg": "/mobile/app/content/category_images/MouldingMillworklg.png"
+                    },
+                    "categoryId": "204067",
+                    "url": "/pl/Moulding-millwork/4294518252"
+                },
+                {
+                    "name": "Paint",
+                    "nValue": "4294729418",
+                    "queryString": "Departments_Depth:1/Paint",
+                    "productCount": 67123,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Paintsm.png",
+                        "md": "/mobile/app/content/category_images/Paintmd.png",
+                        "lg": "/mobile/app/content/category_images/Paintlg.png"
+                    },
+                    "categoryId": "101582",
+                    "url": "/pl/Paint/4294729418"
+                },
+                {
+                    "name": "Building Supplies",
+                    "nValue": "4294934297",
+                    "queryString": "Departments_Depth:1/Building Supplies",
+                    "productCount": 54628,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/BuildingSuppliessm.png",
+                        "md": "/mobile/app/content/category_images/BuildingSuppliesmd.png",
+                        "lg": "/mobile/app/content/category_images/BuildingSupplieslg.png"
+                    },
+                    "categoryId": "100356",
+                    "url": "/pl/Building-supplies/4294934297"
+                },
+                {
+                    "name": "Hardware",
+                    "nValue": "4294934474",
+                    "queryString": "Departments_Depth:1/Hardware",
+                    "productCount": 54484,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Hardwaresm.png",
+                        "md": "/mobile/app/content/category_images/Hardwaremd.png",
+                        "lg": "/mobile/app/content/category_images/Hardwarelg.png"
+                    },
+                    "categoryId": "101096",
+                    "url": "/pl/Hardware/4294934474"
+                },
+                {
+                    "name": "Accessible Home",
+                    "nValue": "4294644799",
+                    "queryString": "Departments_Depth:1/Accessible Home",
+                    "productCount": 46148,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/AccessibleHomesm.png",
+                        "md": "/mobile/app/content/category_images/AccessibleHomemd.png",
+                        "lg": "/mobile/app/content/category_images/AccessibleHomelg.png"
+                    },
+                    "categoryId": "124113",
+                    "url": "/pl/Accessible-home/4294644799"
+                },
+                {
+                    "name": "Lawn & Garden",
+                    "nValue": "1011552124422",
+                    "queryString": "Departments_Depth:1/Lawn & Garden",
+                    "productCount": 43373,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/LawnGardensm.png",
+                        "md": "/mobile/app/content/category_images/LawnGardenmd.png",
+                        "lg": "/mobile/app/content/category_images/LawnGardenlg.png"
+                    },
+                    "categoryId": "100000198406",
+                    "url": "/pl/Lawn-garden/1011552124422"
+                },
+                {
+                    "name": "Kitchen",
+                    "nValue": "4294735712",
+                    "queryString": "Departments_Depth:1/Kitchen",
+                    "productCount": 42369,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Kitchensm.png",
+                        "md": "/mobile/app/content/category_images/Kitchenmd.png",
+                        "lg": "/mobile/app/content/category_images/Kitchenlg.png"
+                    },
+                    "categoryId": "101189",
+                    "url": "/pl/Kitchen/4294735712"
+                },
+                {
+                    "name": "Flooring",
+                    "nValue": "4294934373",
+                    "queryString": "Departments_Depth:1/Flooring",
+                    "productCount": 38332,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Flooringsm.png",
+                        "md": "/mobile/app/content/category_images/Flooringmd.png",
+                        "lg": "/mobile/app/content/category_images/Flooringlg.png"
+                    },
+                    "categoryId": "100976",
+                    "url": "/pl/Flooring/4294934373"
+                },
+                {
+                    "name": "Heating & Cooling",
+                    "nValue": "4294934542",
+                    "queryString": "Departments_Depth:1/Heating & Cooling",
+                    "productCount": 36762,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/HeatingCoolingsm.png",
+                        "md": "/mobile/app/content/category_images/HeatingCoolingmd.png",
+                        "lg": "/mobile/app/content/category_images/HeatingCoolinglg.png"
+                    },
+                    "categoryId": "101102",
+                    "url": "/pl/Heating-cooling/4294934542"
+                },
+                {
+                    "name": "Tools",
+                    "nValue": "4294936478",
+                    "queryString": "Departments_Depth:1/Tools",
+                    "productCount": 26303,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Toolssm.png",
+                        "md": "/mobile/app/content/category_images/Toolsmd.png",
+                        "lg": "/mobile/app/content/category_images/Toolslg.png"
+                    },
+                    "categoryId": "101776",
+                    "url": "/pl/Tools/4294936478"
+                },
+                {
+                    "name": "Storage & Organization",
+                    "nValue": "4294936624",
+                    "queryString": "Departments_Depth:1/Storage & Organization",
+                    "productCount": 25132,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/StorageOrganizationsm.png",
+                        "md": "/mobile/app/content/category_images/StorageOrganizationmd.png",
+                        "lg": "/mobile/app/content/category_images/StorageOrganizationlg.png"
+                    },
+                    "categoryId": "101930",
+                    "url": "/pl/Storage-organization/4294936624"
+                },
+                {
+                    "name": "Electrical",
+                    "nValue": "4294722561",
+                    "queryString": "Departments_Depth:1/Electrical",
+                    "productCount": 23163,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Electricalsm.png",
+                        "md": "/mobile/app/content/category_images/Electricalmd.png",
+                        "lg": "/mobile/app/content/category_images/Electricallg.png"
+                    },
+                    "categoryId": "100896",
+                    "url": "/pl/Electrical/4294722561"
+                },
+                {
+                    "name": "Holiday Decorations",
+                    "nValue": "4294586715",
+                    "queryString": "Departments_Depth:1/Holiday Decorations",
+                    "productCount": 22741,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/HolidayDecorationssm.png",
+                        "md": "/mobile/app/content/category_images/HolidayDecorationsmd.png",
+                        "lg": "/mobile/app/content/category_images/HolidayDecorationslg.png"
+                    },
+                    "categoryId": "108465",
+                    "url": "/pl/Holiday-decorations/4294586715"
+                },
+                {
+                    "name": "Clothing & Work Apparel",
+                    "nValue": "1621060592225",
+                    "queryString": "Departments_Depth:1/Clothing & Work Apparel",
+                    "productCount": 22336,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/ClothingWorkApparelsm.png",
+                        "md": "/mobile/app/content/category_images/ClothingWorkApparelmd.png",
+                        "lg": "/mobile/app/content/category_images/ClothingWorkApparellg.png"
+                    },
+                    "categoryId": "700000000041",
+                    "url": "/pl/Clothing-work-apparel/1621060592225"
+                },
+                {
+                    "name": "Plumbing",
+                    "nValue": "4294935907",
+                    "queryString": "Departments_Depth:1/Plumbing",
+                    "productCount": 20455,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Plumbingsm.png",
+                        "md": "/mobile/app/content/category_images/Plumbingmd.png",
+                        "lg": "/mobile/app/content/category_images/Plumbinglg.png"
+                    },
+                    "categoryId": "101380",
+                    "url": "/pl/Plumbing/4294935907"
+                },
+                {
+                    "name": "Appliances",
+                    "nValue": "4294937007",
+                    "queryString": "Departments_Depth:1/Appliances",
+                    "productCount": 15461,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Appliancessm.png",
+                        "md": "/mobile/app/content/category_images/Appliancesmd.png",
+                        "lg": "/mobile/app/content/category_images/Applianceslg.png"
+                    },
+                    "categoryId": "102093",
+                    "url": "/pl/Appliances/4294937007"
+                },
+                {
+                    "name": "Animal & Pet Care",
+                    "nValue": "4294610578",
+                    "queryString": "Departments_Depth:1/Animal & Pet Care",
+                    "productCount": 11372,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/AnimalPetCaresm.png",
+                        "md": "/mobile/app/content/category_images/AnimalPetCaremd.png",
+                        "lg": "/mobile/app/content/category_images/AnimalPetCarelg.png"
+                    },
+                    "categoryId": "104028",
+                    "url": "/pl/Animal-pet-care/4294610578"
+                },
+                {
+                    "name": "Dining & Entertaining",
+                    "nValue": "4294644709",
+                    "queryString": "Departments_Depth:1/Dining & Entertaining",
+                    "productCount": 11074,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/DiningEntertainingsm.png",
+                        "md": "/mobile/app/content/category_images/DiningEntertainingmd.png",
+                        "lg": "/mobile/app/content/category_images/DiningEntertaininglg.png"
+                    },
+                    "categoryId": "124123",
+                    "url": "/pl/Dining-entertaining/4294644709"
+                },
+                {
+                    "name": "Automotive",
+                    "nValue": "4294644700",
+                    "queryString": "Departments_Depth:1/Automotive",
+                    "productCount": 8252,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Automotivesm.png",
+                        "md": "/mobile/app/content/category_images/Automotivemd.png",
+                        "lg": "/mobile/app/content/category_images/Automotivelg.png"
+                    },
+                    "categoryId": "124117",
+                    "url": "/pl/Automotive/4294644700"
+                },
+                {
+                    "name": "Outdoor Recreation",
+                    "nValue": "1950931230",
+                    "queryString": "Departments_Depth:1/Outdoor Recreation",
+                    "productCount": 7878,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/OutdoorRecreationsm.png",
+                        "md": "/mobile/app/content/category_images/OutdoorRecreationmd.png",
+                        "lg": "/mobile/app/content/category_images/OutdoorRecreationlg.png"
+                    },
+                    "categoryId": "100000198184",
+                    "url": "/pl/Outdoor-recreation/1950931230"
+                },
+                {
+                    "name": "Cleaning Supplies",
+                    "nValue": "4294599040",
+                    "queryString": "Departments_Depth:1/Cleaning Supplies",
+                    "productCount": 7597,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/CleaningSuppliessm.png",
+                        "md": "/mobile/app/content/category_images/CleaningSuppliesmd.png",
+                        "lg": "/mobile/app/content/category_images/CleaningSupplieslg.png"
+                    },
+                    "categoryId": "100655",
+                    "url": "/pl/Cleaning-supplies/4294599040"
+                },
+                {
+                    "name": "Sports & Fitness",
+                    "nValue": "4294644756",
+                    "queryString": "Departments_Depth:1/Sports & Fitness",
+                    "productCount": 6792,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/SportsFitnesssm.png",
+                        "md": "/mobile/app/content/category_images/SportsFitnessmd.png",
+                        "lg": "/mobile/app/content/category_images/SportsFitnesslg.png"
+                    },
+                    "categoryId": "124130",
+                    "url": "/pl/Sports-fitness/4294644756"
+                },
+                {
+                    "name": "Safety",
+                    "nValue": "4294644968",
+                    "queryString": "Departments_Depth:1/Safety",
+                    "productCount": 4736,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Safetysm.png",
+                        "md": "/mobile/app/content/category_images/Safetymd.png",
+                        "lg": "/mobile/app/content/category_images/Safetylg.png"
+                    },
+                    "categoryId": "124128",
+                    "url": "/pl/Safety/4294644968"
+                },
+                {
+                    "name": "Smart Home, Security, Wi-Fi",
+                    "nValue": "1911764466115",
+                    "queryString": "Departments_Depth:1/Smart Home, Security, Wi-Fi",
+                    "productCount": 3905,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/SmartHome,Security,Wi-Fism.png",
+                        "md": "/mobile/app/content/category_images/SmartHome,Security,Wi-Fimd.png",
+                        "lg": "/mobile/app/content/category_images/SmartHome,Security,Wi-Filg.png"
+                    },
+                    "categoryId": "700000000135",
+                    "url": "/pl/Smart-home-security-wi-fi/1911764466115"
+                },
+                {
+                    "name": "Game Room",
+                    "nValue": "4294610499",
+                    "queryString": "Departments_Depth:1/Game Room",
+                    "productCount": 2363,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/GameRoomsm.png",
+                        "md": "/mobile/app/content/category_images/GameRoommd.png",
+                        "lg": "/mobile/app/content/category_images/GameRoomlg.png"
+                    },
+                    "categoryId": "108519",
+                    "url": "/pl/Game-room/4294610499"
+                },
+                {
+                    "name": "Boating",
+                    "nValue": "2764575254",
+                    "queryString": "Departments_Depth:1/Boating",
+                    "productCount": 1958,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/Boatingsm.png",
+                        "md": "/mobile/app/content/category_images/Boatingmd.png",
+                        "lg": "/mobile/app/content/category_images/Boatinglg.png"
+                    },
+                    "categoryId": "100000198219",
+                    "url": "/pl/Boating/2764575254"
+                },
+                {
+                    "name": "Drinks & Snacks",
+                    "nValue": "4294633171",
+                    "queryString": "Departments_Depth:1/Drinks & Snacks",
+                    "productCount": 1191,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/DrinksSnackssm.png",
+                        "md": "/mobile/app/content/category_images/DrinksSnacksmd.png",
+                        "lg": "/mobile/app/content/category_images/DrinksSnackslg.png"
+                    },
+                    "categoryId": "106709",
+                    "url": "/pl/Drinks-snacks/4294633171"
+                },
+                {
+                    "name": "Glues & Tapes",
+                    "nValue": "4294417422",
+                    "queryString": "Departments_Depth:1/Glues & Tapes",
+                    "productCount": 1060,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/GluesTapessm.png",
+                        "md": "/mobile/app/content/category_images/GluesTapesmd.png",
+                        "lg": "/mobile/app/content/category_images/GluesTapeslg.png"
+                    },
+                    "categoryId": "106484",
+                    "url": "/pl/Glues-tapes/4294417422"
+                },
+                {
+                    "name": "Books & Magazines",
+                    "nValue": "4294859018",
+                    "queryString": "Departments_Depth:1/Books & Magazines",
+                    "productCount": 477,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/BooksMagazinessm.png",
+                        "md": "/mobile/app/content/category_images/BooksMagazinesmd.png",
+                        "lg": "/mobile/app/content/category_images/BooksMagazineslg.png"
+                    },
+                    "categoryId": "100340",
+                    "url": "/pl/Books-magazines/4294859018"
+                },
+                {
+                    "name": "Gift Center",
+                    "nValue": "4294625950",
+                    "queryString": "Departments_Depth:1/Gift Center",
+                    "productCount": 444,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/GiftCentersm.png",
+                        "md": "/mobile/app/content/category_images/GiftCentermd.png",
+                        "lg": "/mobile/app/content/category_images/GiftCenterlg.png"
+                    },
+                    "categoryId": "101059",
+                    "url": "/pl/Gift-center/4294625950"
+                },
+                {
+                    "name": "Personal Care & Grooming",
+                    "nValue": "4294639595",
+                    "queryString": "Departments_Depth:1/Personal Care & Grooming",
+                    "productCount": 153,
+                    "imageUrl": {
+                        "sm": "/mobile/app/content/category_images/PersonalCareGroomingsm.png",
+                        "md": "/mobile/app/content/category_images/PersonalCareGroomingmd.png",
+                        "lg": "/mobile/app/content/category_images/PersonalCareGroominglg.png"
+                    },
+                    "categoryId": "106986",
+                    "url": "/pl/Personal-care-grooming/4294639595"
+                }
+            ]
+        }
+    ],
+    "requestParams": {
+        "nValue": "4294937087",
+        "searchTerms": null,
+        "channelType": "DESKTOP",
+        "site": "LOWES",
+        "storeNumber": 624,
+        "includeSubcats": false,
+        "applyLandingRule": false,
+        "facetSortOption": null,
+        "includeMSH": false,
+        "clientType": null,
+        "showPaint": false,
+        "includeCollection": null,
+        "includeGroupTypes": null,
+        "queryString": "category=Departments_Depth&facetSortOption=count&site=LOWES&channelType=DESKTOP&storeNumber=624&storeZone=BALTMD&includeMSH=false&showPaint=false",
+        "selectedNValue": true
+    }
+}
